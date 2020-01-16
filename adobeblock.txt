@@ -15,6 +15,5 @@ lm.licenses.adobe.com
 lmlicenses.wip4.adobe.com
 na1r.services.adobe.com
 practivate.adobe.com
-uds.licenses.adobe.com
 wip3.adobe.com
 wwis-dubc1-vip60.adobe.com
