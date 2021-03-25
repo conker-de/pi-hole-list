@@ -1,0 +1,5 @@
+doh.opendns.com
+doh.dns.sb
+doh.cleanbrowsing.org
+dns.google
+chrome.cloudflare-dns.com
